@@ -114,17 +114,17 @@ img {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	padding: 0.5rem 3rem; /* Adjust padding as needed */
+	padding: 0.5rem 3rem;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 .btn-play i {
-	font-size: 1.5rem; /* Adjust size of the icon */
-	margin-right: 0.5rem; /* Space between icon and text */
+	font-size: 1.5rem;
+	margin-right: 0.5rem;
 }
 
 .btn-play span {
-	font-size: 1.8rem; /* Adjust size of the text */
+	font-size: 1.8rem;
 	padding: 0 1rem;
 }
